@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm a Front-end developer.</h2>
+<h2 align="left">Hi 👋! I'm a Front-end Developer</h2>
+<p align="left">Aspiring Full-Stack Developer | Passionate about building modern, responsive web apps.</p>
 
 ###
 
@@ -9,7 +10,6 @@
 ###
 
 <div align="center">
-  <!-- Tech stack icons with proper spacing and improved order -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
@@ -22,7 +22,7 @@
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="15"/>
