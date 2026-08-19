@@ -88,19 +88,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Front-End Developer** focused on building modern, responsive, and maintainable web applications with **React and Next.js**.
-
-Currently expanding my skills toward **Full-Stack Development**, working with Node.js, Express.js, REST APIs, PostgreSQL, and Firebase.
-
-- 💻 Front-End Developer
-- 🚀 Aspiring Full-Stack Developer
-- ⚛️ React & Next.js enthusiast
-- 🌱 Always learning and building
-- 🤖 Interested in AI-powered applications
-
----
 
 ## 🤝 Connect With Me
 
