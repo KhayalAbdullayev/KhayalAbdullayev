@@ -2,13 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hi,%20I'm%20Khayal%20Abdullayev%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Front-End+Developer+%7C+React+%26+Next.js+Enthusiast;Expanding+into+Full-Stack+Development+(Node%2C+Express%2C+PostgreSQL);Always+learning%2C+building%2C+and+exploring+AI+apps" alt="Typing SVG" />
+</a>
+
 <br/>
 
-<img src="https://img.shields.io/badge/Front--End%20Developer%20%7C%20Aspiring%20Full--Stack%20Developer-161b22?style=for-the-badge&logo=code&logoColor=38BDF8" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20Next.js-22272e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Exploring-Full--Stack%20%26%20AI-22272e?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://komarev.com/ghpvc/?username=KhayalAbdullayev&label=Views&color=38BDF8&style=for-the-badge" />
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=KhayalAbdullayev&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+<p align="center">
+  <em>Building modern, high-performance web applications with clean architecture and intuitive UX.</em>
+</p>
 
 </div>
 
