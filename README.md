@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hi,%20I'm%20Khayal%20Abdullayev%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Front-End+Developer;Aspiring+Full-Stack+Engineer;React+%26+Next.js+Enthusiast" alt="Typing SVG" />
+</a>
+
 <br/>
-
-<img src="https://img.shields.io/badge/Front--End%20Developer%20%7C%20Aspiring%20Full--Stack%20Developer-161b22?style=for-the-badge&logo=code&logoColor=38BDF8" />
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=KhayalAbdullayev&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
 
@@ -14,38 +14,35 @@
 
 ---
 
+## 👨‍💻 About Me
+
+- 💻 **Front-End Developer** focused on building modern, responsive, and performant web apps with **React & Next.js**.
+- 🚀 Expanding into **Full-Stack Engineering** (Node.js, Express.js, PostgreSQL, REST APIs).
+- 🛠️ Passionate about clean architecture, reusable UI components, and intuitive UX.
+- 🤖 Actively exploring AI integrations and modern developer workflows.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,html,css,tailwind,sass,bootstrap" />
-
 </div>
 
 ### Backend & Database
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,firebase" />
-
 </div>
 
-### Tools
-
+### Tools & Platforms
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode" />
-
 </div>
 
-### Other
-
+### Other Languages
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,java,cpp" />
-
 </div>
 
 ---
@@ -54,13 +51,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhayalAbdullayev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=KhayalAbdullayev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhayalAbdullayev&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhayalAbdullayev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KhayalAbdullayev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
 </div>
 
@@ -80,20 +77,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Front-End Developer** focused on building modern, responsive, and maintainable web applications with **React and Next.js**.
-
-Currently expanding my skills toward **Full-Stack Development**, working with Node.js, Express.js, REST APIs, PostgreSQL, and Firebase.
-
-- 💻 Front-End Developer
-- 🚀 Aspiring Full-Stack Developer
-- ⚛️ React & Next.js enthusiast
-- 🌱 Always learning and building
-- 🤖 Interested in AI-powered applications
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -101,8 +84,8 @@ Currently expanding my skills toward **Full-Stack Development**, working with No
 <a href="mailto:contact@khayalabdullayev.online">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="http://linkedin.com/in/khayal--abdullayev">
+&nbsp;
+<a href="https://linkedin.com/in/khayal--abdullayev" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
