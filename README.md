@@ -66,11 +66,15 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhayalAbdullayev&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Khayal's GitHub Activity Graph"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -78,12 +82,15 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+I'm a **Front-End Developer** focused on building modern, responsive, and maintainable web applications with **React and Next.js**.
 
-Front-End Developer focused on **React & Next.js**,
-currently growing into **Full-Stack Development**. 🚀
+Currently expanding my skills toward **Full-Stack Development**, working with Node.js, Express.js, REST APIs, PostgreSQL, and Firebase.
 
-</div>
+- 💻 Front-End Developer
+- 🚀 Aspiring Full-Stack Developer
+- ⚛️ React & Next.js enthusiast
+- 🌱 Always learning and building
+- 🤖 Interested in AI-powered applications
 
 ---
 
