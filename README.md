@@ -57,18 +57,17 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhayalAbdullayev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=KhayalAbdullayev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhayalAbdullayev&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=KhayalAbdullayev&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhayalAbdullayev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KhayalAbdullayev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages"/>
 
 </div>
 
@@ -78,11 +77,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhayalAbdullayev&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Khayal's GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KhayalAbdullayev&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Khayal's GitHub Activity Graph"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/KhayalAbdullayev/KhayalAbdullayev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
