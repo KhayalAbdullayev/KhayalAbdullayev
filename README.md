@@ -62,8 +62,8 @@
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=KhayalAbdullayev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com/?user=KhayalAbdullayev&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=KhayalAbdullayev&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -77,14 +77,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KhayalAbdullayev&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Khayal's GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhayalAbdullayev&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/KhayalAbdullayev/KhayalAbdullayev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
-
 ---
 
 
